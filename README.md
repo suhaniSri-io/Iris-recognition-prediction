@@ -75,3 +75,6 @@ The trained KNN model successfully classifies iris flowers with high accuracy, d
 * Model evaluation and performance measurement
 * Making predictions with trained models
 
+## Author
+Suhani Srivastava
+
